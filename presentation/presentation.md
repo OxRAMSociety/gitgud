@@ -108,7 +108,11 @@ css: custom.css
 
 ## Collaborate with others
 
-<!-- A missing page -->
+- `git remote`
+
+- `git pull <remote> <branch>`
+
+- `git push <remote> <branch>`
 
 # Final remarks
 
