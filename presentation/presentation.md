@@ -82,7 +82,9 @@ css: custom.css
 
 ## Commit changes
 
-<!-- A missing page -->
+- `git commit`
+
+- `git commit --amend`
 
 # Branch out
 
