@@ -60,7 +60,11 @@ css: custom.css
 
 ## Inspect a repository
 
-<!-- A missing page -->
+- `git status`
+
+- `git log` and variations
+
+- `git show <commit>`
 
 # Prepare for a new commit
 
