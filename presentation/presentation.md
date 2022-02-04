@@ -92,7 +92,15 @@ css: custom.css
 
 ## Branch out
 
-<!-- A missing page -->
+- `git branch`
+
+- `git branch <name>`
+
+- `git checkout <target>`
+
+- `git checkout -b <name> <target>`
+
+- `git merge`
 
 # Collaborate with others
 
