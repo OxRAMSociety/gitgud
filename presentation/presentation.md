@@ -72,7 +72,9 @@ css: custom.css
 
 ## Prepare for a new commit
 
-<!-- A missing page -->
+- `git add <path>`
+
+- `git reset <path>`
 
 # Commit changes
 
