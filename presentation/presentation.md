@@ -29,6 +29,17 @@ css: custom.css
 
 ![Originally created by Linus Torvalds][torvalds]
 
+## Installing
+
+- **Linux:** `<packman> install git`
+
+- **MacOS:** install "Xcode Command Line Tools" 🤔
+
+- **Windows** (most likely 64-bit):
+
+  [https://git-scm.com/download/win](https://git-scm.com/download/win)
+  
+
 ## An overview
 
 ![][overview]
@@ -98,7 +109,7 @@ css: custom.css
 
 - breaking things
 
-- graphical interfaces
+- [graphical interfaces]
 
 :::
 ::::::
@@ -133,6 +144,7 @@ css: custom.css
 [branch]: imgs/branch.jpg { width=50% }
 [questions]: imgs/questions.jpg { width=50% }
 [collaborating]: imgs/collaborating.jpg { width=50% }
+[graphical interfaces]: https://git-scm.com/downloads/guis
 [Official documentation]: https://git-scm.com/doc
 [GitHub resources]: https://docs.github.com/en
 [Cheatsheet]: https://education.github.com/git-cheat-sheet-education.pdf
