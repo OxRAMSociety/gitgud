@@ -74,7 +74,7 @@ css: custom.css
 
 - `git add <path>`
 
-- `git reset <path>`
+- `git restore <path>`
 
 # Commit changes
 
@@ -83,8 +83,6 @@ css: custom.css
 ## Commit changes
 
 - `git commit`
-
-- `git commit --amend`
 
 # Branch out
 
@@ -172,14 +170,18 @@ css: custom.css
 
 <!--
 
+Using
+
+- Pandoc 2.13
+- Reveal.js 4.2.0
+
 Compiled with
 
     pandoc -t revealjs --slide-level=2 -s presentation.md -o presentation.html
 
-using
+or for a standalone presentation
 
-- Pandoc 2.13
-- Reveal.js 4.2.0
+    pandoc -s -S -t revealjs --slide-level=2 -s presentation.md -o presentation.html
 
 -->
 
